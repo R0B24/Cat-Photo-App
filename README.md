@@ -4,7 +4,9 @@ A cat photo app is a charming and straightforward web application designed to br
 
 Features:
 
-User friendly interface: The design emphasizes ease of navigation and visual appeal, ensuring that users can focus on the cute content.
+**User friendly interface:** The design emphasizes ease of navigation and visual appeal, ensuring that users can focus on the cute content.
 
-Gallery of Cat Photos: App features a gallery of cat images, each displayed in a responsive layout. User are able to see variety of adorable cat pictures without any distractions. 
+**Gallery of Cat Photos**: App features a gallery of cat images, each displayed in a responsive layout. User are able to see variety of adorable cat pictures without any distractions. 
+
+
 
